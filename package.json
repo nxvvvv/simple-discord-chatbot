@@ -1,0 +1,28 @@
+{
+  "name": "simple-discord-chatbot",
+  "version": "1.0.0",
+  "description": "A simple chatcord discord chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [],
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chatcord": "0.0.5",
+    "discord": "^0.8.2",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "md5": "^2.3.0",
+    "superagent": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaneethkm004/simple-discord-chatbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/navaneethkm004/simple-discord-chatbot/issues"
+  },
+  "homepage": "https://github.com/navaneethkm004/simple-discord-chatbot#readme"
+}
